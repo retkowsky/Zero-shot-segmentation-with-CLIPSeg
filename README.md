@@ -6,3 +6,4 @@ CLIPSeg adds a minimal decoder on top of a frozen CLIP model for zero- and one-s
 <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/123_clipseg-zero-shot/clipseg-overview.png">
 https://huggingface.co/docs/transformers/model_doc/clipseg
 
+06-Jan-2023 Serge Retkowsky | serge.retkowsky@microsoft.com | https://www.linkedin.com/in/serger/
