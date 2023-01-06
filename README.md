@@ -9,7 +9,7 @@ CLIPSeg adds a minimal decoder on top of a frozen CLIP model for zero- and one-s
 
 ## Demo example
 
-<a href="">Python notebook<a>
+<a href="Zero%20shot%20image%20segmentation%20with%20CLIPSeg.ipynb">Python notebook<a>
 <br>
 <img src="segmentation_results.jpg">
 
